@@ -1,0 +1,9 @@
+# Project gen files
+/gradlew
+/gradlew.bat
+.idea
+.allure/
+gradle/
+allure-results/
+.gradle
+build/
